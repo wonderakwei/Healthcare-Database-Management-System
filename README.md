@@ -107,7 +107,7 @@ Healthcare organizations face challenges in efficiently managing patient informa
 
 - Translated the conceptual design into a logical database schema.
 - Specified entities, relationships, attributes, primary keys, and foreign keys.
-
+DbDocs.io Database Schema Documentation
 https://dbdocs.io/akweiwonder3/HealthcareDBMS
 ### Phase IV: Physical Design (Internal Schema)
 
